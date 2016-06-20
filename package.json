@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple and complete blog system built with React and Semantic-UI",
   "main": "index.js",
+  "engine": "6.2.2",
   "scripts": {
     "start": "webpack-dev-server --hot --inline",
     "test": "echo \"Error: no test specified\" && exit 1"
